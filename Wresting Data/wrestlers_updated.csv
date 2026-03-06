@@ -1,0 +1,1513 @@
+wrestler_id,name,Class,Team
+1,Bowen Downey,SO,Northern Iowa
+2,Julian Farber,SR,Northern Iowa
+3,Max Brady,FR,Northern Iowa
+4,Ethan Basile,SR,Northern Iowa
+5,Cael Rahnavardi,SR,Northern Iowa
+6,Ryder Downey,JR,Northern Iowa
+7,Izzy Moreno,SO,Northern Iowa
+8,Nick Fox,SO,Northern Iowa
+9,John Gunderson,JR,Northern Iowa
+10,Adam Ahrendson,SR,Northern Iowa
+11,Brady Roark,SO,South Dakota State
+12,Cale Seaton,RSFR,South Dakota State
+13,Julian Tagg,SR,South Dakota State
+14,Logan Swensen,RSFR,South Dakota State
+15,Cael Swensen,JR,South Dakota State
+16,Jacob Herm,FR,South Dakota State
+17,Moses Espinoza-Owens,SO,South Dakota State
+18,Brock Fettig,JR,South Dakota State
+19,Bennett Berge,JR,South Dakota State
+20,Luke Rasmussen,JR,South Dakota State
+21,Desmond Pleasant,SR,Drexel
+22,Kyle Waterman,SR,Drexel
+23,Jordan Soriano,SR,Drexel
+24,Deon Pleasant,SR,Drexel
+25,Luke Nichter,SR,Drexel
+26,Cody Walsh,SR,Drexel
+27,Jasiah Queen,SO,Drexel
+28,Ethan Wilson,JR,Drexel
+29,Ibrahim Ameer,SR,Drexel
+30,Nate Schon,JR,Drexel
+31,Trever Anderson,JR,Northern Iowa
+32,Cory Land,JR,Northern Iowa
+33,Jared Simma,SR,Northern Iowa
+34,Blake West,SR,Northern Illinois
+35,Markel Baker,JR,Northern Illinois
+36,Charles Curtis,RSFR,Northern Illinois
+37,Lucan O’Brien,RSFR,Northern Illinois
+39,Brett Smith,SO,Northern Illinois
+40,Tommy Bennett,JR,Northern Illinois
+41,Caleb Roe,JR,Northern Illinois
+42,Dominic Heim,SO,Northern Illinois
+43,Devon Dawson,RSSR,Northern Illinois
+44,Archer Anderson,FR,Central Michigan
+45,Andrew Austin,JR,Central Michigan
+46,Nick Blackburn,RSFR,Central Michigan
+47,Jimmy Nugent,RSJR,Central Michigan
+48,Mason Shrader,SR,Central Michigan
+49,Chandler Amaker,SR,Central Michigan
+50,Brayden Gautreau,SO,Central Michigan
+51,Adrien Cramer,SR,Central Michigan
+52,Luke Cochran,SO,Central Michigan
+53,Bryan Caves,SR,Central Michigan
+54,Jarrett Wadsen,FR,South Dakota State
+55,Quin Morgan,RSFR,South Dakota State
+56,Micah Hach,FR,South Dakota State
+57,Nick Marienfeld,JR,Central Michigan
+58,Brayden Teunissen,FR,Ohio
+59,Ryan Meek,JR,Ohio
+60,Abe Hermes,FR,Ohio
+61,Sam Bustamante,FR,Ohio
+62,Dom Serio,FR,Ohio
+63,Jack Lledo,JR,Ohio
+64,Garrett Thompson,SR,Ohio
+65,Sal Perrine,RSSR,Ohio
+66,Zayne Lehman,RSSR,Ohio
+67,Wyatt Schmitt,RSFR,Ohio
+68,Logan Brzozowski,SO,Harvard
+69,Coleman Nogle,JR,Harvard
+70,Sidney Tildsley,FR,Harvard
+71,Jack Crook,JR,Harvard
+72,Jimmy Harrington,SR,Harvard
+73,Joseph Cangro,JR,Harvard
+74,Ben Smith,FR,Harvard
+75,Matthew Walsh,JR,Harvard
+76,Hudson Skove,SO,Harvard
+77,Logan Marissal,JR,Harvard
+78,Cameron Chinavare,RSFR,Central Michigan
+79,Aidan Fockler,RSFR,Central Michigan
+80,Paul Woo,SR,Ohio
+81,Gavin Martin,FR,Bloomsburg
+82,Gavin Mundy,FR,Bloomsburg
+83,Richie Wood,FR,Bloomsburg
+84,Jay Chase,FR,Bloomsburg
+85,William Morrow,SR,Bloomsburg
+86,Vasilios Dimou,FR,Bloomsburg
+87,Connor Hudak,FR,Bloomsburg
+88,Coy Raines,RSFR,Bloomsburg
+89,Mason Rebuck,SO,Bloomsburg
+90,Garret Rinken,SO,Northern Iowa
+91,Caleb Rathjen,SR,Northern Iowa
+92,Jack Thomsen,SR,Northern Iowa
+93,CJ Walrath,SO,Northern Iowa
+94,Carson Babcock,SR,Northern Iowa
+95,Grant Stromberg,RSFR,Northern Iowa
+96,Logan Heil,SR,Campbell
+97,Zander Phaturos,JR,Campbell
+98,Jonathan Chang,RSFR,Campbell
+99,Kendrick Hodge,RSFR,Campbell
+100,Ryan Bolletino,SR,Campbell
+101,Sawyer Van Rider,RSFR,Campbell
+102,Richard Castro-Sandoval,SR,CSU Bakersfield
+103,Robert Jones,FR,CSU Bakersfield
+104,Santino Sanchez,JR,CSU Bakersfield
+105,Hayden Zinkin,SO,CSU Bakersfield
+106,Devyn Flores-Che,JR,CSU Bakersfield
+107,Evan Manzo,RSFR,CSU Bakersfield
+108,Guillermo Escobedo,SR,CSU Bakersfield
+109,Jeremy Manibog,SO,CSU Bakersfield
+110,Chris Neal,SO,CSU Bakersfield
+111,Mason Cover,SR,CSU Bakersfield
+112,Oumar Tounkara,FR,Drexel
+113,Patrick Kelly,FR,Drexel
+114,Coen Quintana,SO,CSU Bakersfield
+115,Dylan Greenstein,FR,Harvard
+116,Colby Crouch,RSFR,Campbell
+117,Brant Cracraft,JR,Campbell
+118,Daniel Guanajuato,SO,South Dakota State
+119,Luke Lilledahl,SO,Penn State
+120,Marcus Blaze,FR,Penn State
+121,Braeden Davis,JR,Penn State
+122,Shayne Van Ness,JR,Penn State
+123,PJ Duke,FR,Penn State
+124,Mitchell Mesenbrink,JR,Penn State
+125,Levi Haines,SR,Penn State
+126,Rocco Welsh,RSSO,Penn State
+127,Josh Barr,SO,Penn State
+128,Cole Mirasola,RSFR,Penn State
+129,Ayden Smith,RSFR,Rutgers
+130,Dylan Shawver,SR,Rutgers
+131,Tahir Parkins,FR,Rutgers
+132,Devon Magro,FR,Rutgers
+133,Easton Doster,FR,Rutgers
+134,Ryan Ford,RSFR,Rutgers
+135,Jordan Chapman,FR,Rutgers
+136,Shane Cartagena-Walsh,SO,Rutgers
+137,Remy Cotton,SO,Rutgers
+138,Hunter Catka,SR,Rutgers
+139,Co'ji Campbell,FR,Illinois
+140,Lucas Byrd,SR,Illinois
+141,Danny Pucino,SR,Illinois
+142,Michael Gioffre,JR,Illinois
+143,Kannon Webster,SO,Illinois
+144,Braeden Scoles,SO,Illinois
+145,Colin Kelly,RSFR,Illinois
+146,Chris Moore,RSSO,Illinois
+147,Dylan Connell,SR,Illinois
+148,Ryan Boersma,JR,Illinois
+149,Jore Volk,RSJR,Minnesota
+150,Brandon Morvari,SO,Minnesota
+151,Vance Vombaur,JR,Minnesota
+152,Drew Roberts,SR,Minnesota
+153,Charlie Millard,RSFR,Minnesota
+154,Blaine Brenner,SR,Minnesota
+155,Ethan Riddle,SO,Minnesota
+156,Max McEnelly,SO,Minnesota
+157,Gavin Nelson,FR,Minnesota
+158,Koy Hopke,RSFR,Minnesota
+159,Sheldon Seymour,SR,Lehigh
+160,Ryan Crookham,SO,Lehigh
+161,Luke Stanich,RSSO,Lehigh
+162,Owen Reinsel,JR,Lehigh
+163,Griffin Gonzalez,SO,Lehigh
+164,Max Brignola,RSSR,Lehigh
+165,Richie Grungo,SO,Lehigh
+166,Rylan Rogers,JR,Lehigh
+167,JT Davis,SR,Lehigh
+169,Greg Diakomihalis,SR,Cornell
+170,Tyler Ferrera,SO,Cornell
+171,Vince Cornella,RSJR,Cornell
+172,Jaxon Joy,FR,Cornell
+173,Meyer Shapiro,JR,Cornell
+174,Louis Cerchio,FR,Cornell
+175,Simon Ruiz,SO,Cornell
+176,Christian Hansen,SR,Cornell
+177,Aiden Hanning,JR,Cornell
+178,Cash Henderson,FR,Cornell
+179,Braidon Woodward,RSFR,Bloomsburg
+180,Josh Vazquez,FR,Northern Illinois
+181,Logan Bender,FR,Northern Illinois
+182,Seth Larson,RSFR,Central Michigan
+183,Wyatt Ferguson,RSSO,Central Michigan
+184,Pablo Macias,RSFR,Campbell
+185,Conor Maslanek,SR,Campbell
+186,Dante Frinzi,SR,Harvard
+187,Austin Mckee,FR,Ohio
+188,Jeremy Olszko,SO,Ohio
+189,Drew Lincicome,SO,Ohio
+190,Evan Wingrove,RSFR,Ohio
+191,Derek Raike,JR,Ohio
+192,Dominic Findora,JR,Drexel
+193,Saxton Scott,FR,CSU Bakersfield
+194,Mikah Labuanan,FR,CSU Bakersfield
+195,Keyan Hernandez,RSFR,Iowa
+196,Drake Ayala,SR,Iowa
+197,Kale Petersen,SO,Iowa
+198,Ryder Block,SO,Iowa
+199,Jordan Williams,JR,Iowa
+200,Michael Caliendo,SR,Iowa
+201,Patrick Kennedy,SR,Iowa
+202,Angelo Ferrari,RSFR,Iowa
+203,Harvey Ludington,FR,Iowa
+204,Ben Kueter,SO,Iowa
+205,Nicolar Rivera,JR,Wisconsin
+206,Zan Fugitt,SO,Wisconsin
+207,Carson Exferd,RSFR,Wisconsin
+208,Joseph Zargo,RSSR,Wisconsin
+209,Luke Mechler,SR,Wisconsin
+210,Cody Goebel,JR,Wisconsin
+211,Lucas Condon,SO,Wisconsin
+212,Cale Anderson,SR,Wisconsin
+213,Wyatt Ingham,RSFR,Wisconsin
+214,Braxton Amos,RSJR,Wisconsin
+215,Alan Koehler,SO,Nebraska
+216,Jacob Van Dee,JR,Nebraska
+217,Brock Hardy,SR,Nebraska
+218,Chance Lamer,SR,Nebraska
+219,Antrell Taylor,JR,Nebraska
+220,LJ Araujo,RSFR,Nebraska
+221,Christopher Minto,SO,Nebraska
+222,Silas Allred,SR,Nebraska
+223,Camden McDanel,SO,Nebraska
+224,AJ Ferrari,JR,Nebraska
+225,Ashton Jackson,SO,Purdue
+226,Blake Boarman,SR,Purdue
+227,Vinny Paino,FR,Purdue
+228,Gavin Brown,JR,Purdue
+229,Stoney Buell,SR,Purdue
+230,Joey Blaze,JR,Purdue
+231,Brody Baumann,JR,Purdue
+232,James Rowley,JR,Purdue
+233,Ben Vanadia,SR,Purdue
+234,Hayden Filipovich,SR,Purdue
+235,Bradley Yokum,RSFR,NC State
+236,Troy Hohman,JR,NC State
+237,Ryan Jack,RSSR,NC State
+238,Koy Buesgens,SO,NC State
+239,Brogan Tucker,FR,NC State
+240,Will Denny,FR,NC State
+241,Matthew Singleton,JR,NC State
+242,Donald Cates,SR,NC State
+243,Patrick Brophy,JR,NC State
+244,Isaac Trumble,SR,NC State
+245,Rocco Hayes,FR,Virginia
+246,Marlon Yarbrough,SR,Virginia
+247,Gable Porter,SO,Virginia
+248,Wynton Denkins,JR,Virginia
+249,Colton Washleski,SR,Virginia
+250,Michael Murphy,SO,Virginia
+251,Nick Hamilton,JR,Virginia
+252,Griffin Gammell,JR,Virginia
+253,Steven Burrell,SO,Virginia
+254,Brenan Morgan,RSFR,Virginia
+255,Edwin Sierra,FR,Stanford
+256,Tyler Knox,SO,Stanford
+257,Jack Consiglio,RSFR,Stanford
+258,Lain Yapoujian,SO,Stanford
+259,Daniel Cardenas,RSJR,Stanford
+260,EJ Parco,RSFR,Stanford
+261,Collin Guffey,RSFR,Stanford
+262,Abe Wojcikiewicz,SO,Stanford
+263,Angelo Posada,FR,Stanford
+264,Luke Duthie,JR,Stanford
+265,Spencer Von Savoye,SO,Duke
+266,Riley Rowan,RSFR,Duke
+267,Raymond Adams,JR,Duke
+268,Dylan Ross,RSFR,Duke
+269,Logan Fite,SO,Duke
+270,Aiden Wallace,JR,Duke
+271,David Hussey,SO,Duke
+272,Owen McGrory,SO,Duke
+273,Connor Barket,JR,Duke
+274,Christian Tanefeu,SR,Michigan
+275,Gauge Botero,FR,Michigan
+276,Dylan Ragusin,SR,Michigan
+277,Lachlan McNeil,SR,Michigan
+278,Cam Catrabone,RSFR,Michigan
+279,Justin Gates,RSFR,Michigan
+280,Beau Mantanona,SO,Michigan
+281,Brock Mantanona,RSFR,Michigan
+282,Hayden Walters,RSFR,Michigan
+283,Taye Ghadiali,RSSR,Michigan
+284,Nick Corday,JR,Michigan State
+285,Caleb Weiand,SO,Michigan State
+286,Jaden Crumpler,SO,Michigan State
+287,Clayton Jones,SO,Michigan State
+288,Darius Marines,RSFR,Michigan State
+289,DJ Shannon,RSSR,Michigan State
+290,Connor O'Neill,SR,Michigan State
+291,Ryan Boucher,SR,Michigan State
+292,Kael Wisler,RSSO,Michigan State
+293,Josh Terrill,JR,Michigan State
+294,Tyler Chappell,SO,Pittsburgh
+295,Evan Tallmadge,SO,Pittsburgh
+296,Anthony Santaniello,SO,Pittsburgh
+297,Kade Brown,RSFR,Pittsburgh
+298,Dylan Evans,SO,Pittsburgh
+299,Jared Keslar,JR,Pittsburgh
+300,Luca Augustine,SR,Pittsburgh
+301,Chase Kranitz,JR,Pittsburgh
+302,Mac Stout,JR,Pittsburgh
+303,Dayton Pitzer,JR,Pittsburgh
+304,Eddie Ventresca,JR,Virginia Tech
+305,Dillon Campbell,RSFR,Virginia Tech
+306,Tom Crook,RSJR,Virginia Tech
+307,Collin Gaj,FR,Virginia Tech
+308,Ethen Miller,SR,Virginia Tech
+309,Mac Church,SO,Virginia Tech
+310,Sergio Desiante,JR,Virginia Tech
+311,Jaden Bullock,SR,Virginia Tech
+312,Sonny Sasso,SO,Virginia Tech
+313,Jim Mullen,SO,Virginia Tech
+314,Ane'e Vigil,JR,Arizona State
+315,Kyler Larkin,FR,Arizona State
+316,Pierson Manville,RSFR,Arizona State
+317,Daniel Miranda,SO,Arizona State
+318,Kaleb Larkin,SO,Arizona State
+319,Nicco Ruiz,SO,Arizona State
+320,Cael Valencia,SR,Arizona State
+321,Aziz Fayzullaev,SR,Arizona State
+322,Colton Hawks,SR,Arizona State
+323,David Szuba,RSSR,Arizona State
+324,Louie Gill,RSFR,West Virginia
+325,Gunner Andrick,FR,West Virginia
+326,Jordan Titus,SR,West Virginia
+327,TJ Langley,RSFR,West Virginia
+328,Ty Watters,RSSO,West Virginia
+329,Shawn Taylor,RSFR,West Virginia
+330,Brody Conley,JR,West Virginia
+331,Ian Bush,JR,West Virginia
+332,Rune Lawrence,RSFR,West Virginia
+333,Brock Kehler,FR,West Virginia
+334,Dedrick Navarro,SO,Northwestern
+335,Sean Spidle,SR,Northwestern
+336,Billy Dekraker,FR,Northwestern
+337,Sam Cartella,SO,Northwestern
+338,Gunnar Myers,RSFR,Northwestern
+339,Jacob Bostelman,SO,Northwestern
+340,Eddie Enright,RSFR,Northwestern
+341,Jesse Perez,SR,Northwestern
+342,Alex Smith,FR,Northwestern
+343,Gabe Christenson,SR,Northwestern
+344,Presden Sanchez,RSFR,Maryland
+345,Braxton Brown,SR,Maryland
+346,Ryan Kennedy,FR,Maryland
+347,Carter Young,SR,Maryland
+348,Mekhi Neal,RSFR,Maryland
+349,AJ Rodriguez,RSSO,Maryland
+350,Alex Uryniak,SO,Maryland
+351,Seth Digby,FR,Maryland
+352,Branson John,SO,Maryland
+353,Oscar Williams,RSFR,Maryland
+354,Tyler Klinsky,RSSR,Rider
+355,Will Betancourt,SR,Rider
+356,Eli Griffin,SR,Rider
+357,Dylan Layton,RSJR,Rider
+358,Gianni Maldonado,FR,Rider
+359,Brendon Abdon,JR,Rider
+360,Enrique Munguia,SR,Rider
+361,John Hangey,RSFR,Rider
+362,Brock Zurawski,SO,Rider
+363,Hogan Swenski,SR,Rider
+364,Nico Calello,JR,Kent State
+365,Nick Molchak,JR,Kent State
+366,Landen Duncan,SO,Kent State
+367,Silas Stits,FR,Kent State
+368,Keegan Knapp,RSJR,Kent State
+369,Chris Earnest,JR,Kent State
+370,Ethan Barr,JR,Kent State
+371,Ronald Dimmerling,JR,Kent State
+372,Blake Schaffer,SR,Kent State
+373,Brentan Simmerman,SO,Kent State
+374,Carson Wagner,JR,Binghamton
+375,Dillon Arrick,RSFR,Binghamton
+376,Ryan Hartung,SO,Binghamton
+377,Caleb Sweet,SO,Binghamton
+378,Fin Nadeau,JR,Binghamton
+379,Marco Albanese,SO,Binghamton
+380,Jordan Brown,SO,Binghamton
+381,Carter Baer,JR,Binghamton
+382,Mikey Squires,SR,Binghamton
+383,Cayden Bevis,JR,Binghamton
+384,Zac Belverio,FR,Buffalo
+385,Max Elton,JR,Buffalo
+386,Tyler Roark,FR,Buffalo
+387,Sam Ewing,SO,Buffalo
+388,Max Nevlin,FR,Buffalo
+389,Kelin Laffey,JR,Buffalo
+390,Giorgio Valenzuela,FR,Buffalo
+391,Rafael Knapp,SO,Buffalo
+392,Connor Jacobs,SO,Buffalo
+393,Magnus Bibla,SO,Buffalo
+394,Ethan York,FR,Presbyterian
+395,Fernando Dominguez,SO,Presbyterian
+396,Ryan Luna,JR,Presbyterian
+397,Joseph Morris,RSFR,Presbyterian
+398,Rey Ortiz,SO,Presbyterian
+399,Joshua Roe,SO,Presbyterian
+400,Reed Douglass,JR,Presbyterian
+401,Josh Henderson,SO,Presbyterian
+402,Morvens Saint Jean,SR,Presbyterian
+403,Cooper Foster,FR,Appalachian State
+404,Jarvis Little,RSFR,Appalachian State
+405,Aldo Hernandez,SO,Appalachian State
+406,Kaden Keiser,JR,Appalachian State
+407,Kai O'Dell,JR,Appalachian State
+408,Anthony Conetta,JR,Appalachian State
+409,Colt Campbell,FR,Appalachian State
+410,Joe Zovistoski,SR,Appalachian State
+411,Hunter Adams,JR,Appalachian State
+412,Stephan Monchery,SO,Appalachian State
+413,Damian Moreno,SO,Arizona State
+414,Benjamin Alanis,SR,Arizona State
+415,Leo Tukhlynovych,JR,Arizona State
+416,Stevo Poulin,SR,Iowa State
+417,Adrian Meza,RSFR,Iowa State
+418,Anthony Echemendia,SR,Iowa State
+419,Jacob Frost,SO,Iowa State
+420,Vince Zerban,SR,Iowa State
+421,Connor Euton,JR,Iowa State
+422,MJ Gaitan,JR,Iowa State
+423,Isaac Dean,SR,Iowa State
+424,Cj Carter,JR,Iowa State
+425,Yonger Bastida,RSSR,Iowa State
+426,Nico Provo,RSJR,Stanford
+427,Aden Valencia,RSFR,Stanford
+428,Zach Hanson,SO,Stanford
+429,Jackson Mankowski,SO,Stanford
+430,Ethan Perryman,JR,Iowa State
+431,Kane Naaktgeboren,RSFR,Iowa State
+432,Aiden Riggins,JR,Iowa State
+433,Maximo Renteria,SR,Oregon State
+434,Jeff Lopez,FR,Oregon State
+435,Nash Singleton,JR,Oregon State
+436,Noah Tolentino,JR,Oregon State
+437,Christopher Hamblin,JR,Oregon State
+438,Matthew Olguin,RSSR,Oregon State
+439,Daschle Lamer,SO,Oregon State
+440,TJ McDonnell,SO,Oregon State
+441,Justin Rademacher,RSSO,Oregon State
+442,Nic Bouzakis,JR,Ohio State
+443,Ben Davino,RSFR,Ohio State
+444,Jesse Mendez,SR,Ohio State
+445,Ethan Stiles,SO,Ohio State
+446,Brandon Cannon,SO,Ohio State
+447,Paddy Gallagher,SR,Ohio State
+448,Carson Kharchla,SR,Ohio State
+449,Dylan Fishback,JR,Ohio State
+450,Luke Geog,JR,Ohio State
+451,Nick Feldman,JR,Ohio State
+452,Marc-Anthony McGowan,SO,Princeton
+453,Danny Jones,SO,Princeton
+454,Matthew Martino,FR,Princeton
+455,Eligh Rivera,JR,Princeton
+456,Gavin Hawk,FR,Princeton
+457,Ty Whalen,JR,Princeton
+458,Holden Garcia,RSSO,Princeton
+459,Xavier Giles,SO,Princeton
+460,Kole Mulhauser,SR,Princeton
+461,Sebastian Garibaldi,SR,Princeton
+462,Teague Strobel,RSFR,Hofstra
+463,Gauge Shipp,RSFR,Hofstra
+464,Chase Liardi,JR,Hofstra
+465,Alex Turley,JR,Hofstra
+466,Frankie Volpe,SO,Hofstra
+467,Jake Slotnick,RSSO,Hofstra
+468,Eric Shindel,SR,Hofstra
+469,Matt Waddell,SO,Hofstra
+470,Will Conlon,JR,Hofstra
+471,Adrian Sans,JR,Hofstra
+472,Curtis Nelson,FR,Lock Haven
+473,Gable Strickland,RSSR,Lock Haven
+474,Wyatt Henson,SR,Lock Haven
+475,Lucas Kapusta,SO,Lock Haven
+476,Nick Stampoulos,JR,Lock Haven
+477,Ousmane Duncanson,RSFR,Lock Haven
+478,Avery Bassett,SR,Lock Haven
+479,Sammy Gautreau,RSFR,Lock Haven
+480,Tucker Hogan,SO,Lock Haven
+481,Kade Sottolano,JR,Lock Haven
+482,Conor McCloskey,FR,Princeton
+483,Will Ebert,JR,Binghamton
+484,Trent Sibble,SO,Binghamton
+485,Nick Kunstek,RSFR,Lock Haven
+486,John Baker,JR,Binghamton
+487,Sawyer Ostroff,SO,LIU
+488,Christopher Betancourt,SR,LIU
+489,Carter Pack,FR,LIU
+490,Amir Avazov,RSFR,LIU
+491,Brayden Roberts,JR,LIU
+492,Jack Valentin,SO,LIU
+493,Braden Brown,RSFR,LIU
+494,Anthony D'Alesio,SR,LIU
+495,John Dusza,SR,LIU
+496,Chris Powell,SR,LIU
+497,Kade Davidheiser,JR,Bucknell
+498,Bryce Manera,FR,Bucknell
+499,Dylan Chappell,SR,Bucknell
+500,Riley Bower,SR,Bucknell
+501,Cade Wirnsberger,SO,Bucknell
+502,Noah Mulvaney,JR,Bucknell
+503,Myles Takats,JR,Bucknell
+504,Tyler Bienus,SO,Bucknell
+505,Dillon Bechtold,SO,Bucknell
+506,Lucas Lawler,FR,Bucknell
+507,Harley Andrews,JR,Nebraska
+508,Robert Weston,SR,Northern Iowa
+509,Anthony Chuquilin,RSFR,LIU
+510,Branden Rozanski,RSFR,LIU
+511,Tommy Bonasera,SO,LIU
+512,Jordan Barry,RSFR,LIU
+513,Sulayman Bah,JR,Columbia
+514,Evin Gursoy,FR,Columbia
+515,Lorenzo Frezza,JR,Columbia
+516,Richard Fedalen,SR,Columbia
+517,Kai Owen,SR,Columbia
+518,Marc Maurath,FR,Columbia
+519,Nick Fine,SR,Columbia
+520,Aaron Ayzerov,SR,Columbia
+521,Jack Wehmeyer,JR,Columbia
+522,Vincent Mueller,JR,Columbia
+523,Alek Martin,SR,South Dakota State
+524,Marcus Espinoza-Owens,SO,South Dakota State
+525,Gabriel Delgado,FR,Arizona State
+526,Shay Addison,JR,Arizona State
+527,Damion Schunke,JR,Arizona State
+528,Giovanni Alejandro,SO,Rider
+529,Isaiah Schaefer,FR,Purdue
+530,Jacob Macatangay,JR,Purdue
+531,Greyson Clark,JR,Purdue
+532,Aidan Costello,FR,Purdue
+533,Justin Jones,FR,Bloomsburg
+534,Dustin Elliott,FR,Bloomsburg
+535,Cooper Shore,SO,California Baptist
+536,Richard Murillo,RSFR,California Baptist
+537,Richie Clementi,FR,California Baptist
+538,Paul Kelly,SO,California Baptist
+539,Drayden Morton,SO,California Baptist
+540,Timothy Cowan,JR,California Baptist
+541,Mason Espinoza,SO,California Baptist
+542,David Alonso,RSFR,California Baptist
+543,Eli Sheeran,SR,California Baptist
+544,Tristan Kemp,SR,California Baptist
+545,Aydan Thomas,FR,Northern Colorado
+546,Dominick Serrano,SR,Northern Colorado
+547,Ramon Salazar,RSFR,Northern Colorado
+548,Emilio Trujillo-Deen,SO,Northern Colorado
+549,Daishun Powe,RSFR,Northern Colorado
+550,Kilian Schultz,SO,Northern Colorado
+551,Murphy Menke,JR,Northern Colorado
+552,Mahonri Rushton,SR,Northern Colorado
+553,Tyler Perry,JR,Northern Colorado
+554,Enzo Cappabianca,JR,Northern Colorado
+555,Davis Motyka,FR,Pennsylvania
+556,Evan Mougalian,JR,Pennsylvania
+557,CJ Composto,SR,Pennsylvania
+558,Cross Wasilewski,SO,Pennsylvania
+559,Jude Swisher,JR,Pennsylvania
+560,Sean Seefeldt,JR,Pennsylvania
+561,Caden Bellis,FR,Pennsylvania
+562,Greyson Meak,FR,Pennsylvania
+563,Martin Cosgrove,JR,Pennsylvania
+564,John Pardo,SO,Pennsylvania
+565,Kyle Montaperto,JR,Virginia
+566,Kyren Butler,SR,Virginia
+567,Emmitt Sherlock,FR,Virginia
+568,Jack Lesher,RSFR,Virginia
+569,Marcello Milani,JR,Cornell
+570,Brett Ungar,SR,Cornell
+571,Kaleb Williams,SR,Cornell
+572,Ashton Davis,JR,Cornell
+573,Spencer Moore,SR,Illinois
+574,William Baysingar,SO,Illinois
+575,Luke Luffman,SR,Illinois
+576,Joe Sparacio,JR,Hofstra
+577,Josh Jorgge,FR,Hofstra
+578,Keyveon Roller,JR,Virginia
+579,Aiden Allen,RSFR,Virginia
+580,Julian Dawson,JR,Morgan State
+581,Jimmie Jones,JR,Morgan State
+582,Marwan Mohammed Nazeer,FR,Morgan State
+583,Joshua Greenwood,JR,Morgan State
+584,Eric Washington,SR,Morgan State
+585,Eli Turpin,FR,Morgan State
+586,Ethan Timur,FR,Virginia
+587,Kyle Grey,JR,Morgan State
+588,Kael Lauridsen,RSFR,Nebraska
+589,Cade Ziola,FR,Nebraska
+590,Troy Spratley,JR,Oklahoma State
+591,Ronnie Ramirez,FR,Oklahoma State
+592,Sergio Vega,FR,Oklahoma State
+593,Casey Swiderski,RSJR,Oklahoma State
+594,Landon Robideau,FR,Oklahoma State
+595,Ladarion Lockett,FR,Oklahoma State
+596,Alex Facundo,JR,Oklahoma State
+597,Zack Ryder,RSFR,Oklahoma State
+598,Cody Merrill,RSFR,Oklahoma State
+599,Konner Doucet,SR,Oklahoma State
+600,Evan Frost,JR,Iowa State
+601,Rocky Elam,RSSR,Iowa State
+602,Vincent Kilkeary,SO,Ohio State
+603,Daxton Chase,RSFR,Ohio State
+604,e'Than Birden,RSFR,Ohio State
+605,Cayaen Smith,RSFR,Ohio State
+606,Jeremiah Reno,RSSR,Little Rock
+607,Dillon Cooper,RSFR,Little Rock
+608,Brennan Van Hoecke,SR,Little Rock
+609,Carter McCallister,SO,Little Rock
+610,Jaivon Jones,SR,Little Rock
+611,Matt Bianchi,SR,Little Rock
+612,Gunner Holland,RSFR,Little Rock
+613,Bronson Baxter,RSFR,Little Rock
+614,Landon Jobber-Spence,FR,Little Rock
+615,Kaden Darwin,RSFR,Little Rock
+616,Zach Redding,SR,NC State
+617,Latrelle Schafer,RSFR,NC State
+618,Rylan Breen,RSFR,NC State
+619,Ben Monn,SR,George Mason
+620,Anthony Lucchiani,FR,George Mason
+621,Tate Hisey,FR,George Mason
+622,DJ McGee,JR,George Mason
+623,Thomas Stofka,RSFR,George Mason
+624,Logan Messer,SR,George Mason
+625,Malachi Duvall,SR,George Mason
+626,Jack Kelly,SR,George Mason
+627,Herbert Billups,FR,George Mason
+628,Vincent Robinson,SO,NC State
+629,Jaydon Robinson,RSFR,NC State
+630,Luca Felix,RSFR,NC State
+631,Pete Winterstein,RSFR,NC State
+632,Jordan Joslyn,FR,Buffalo
+633,Brady Unger,SO,Buffalo
+634,Jack MacDonald,SO,Buffalo
+635,Benny Rogers,JR,Cornell
+636,Tyson Roach,RSFR,Little Rock
+637,Michael Gasper,SR,Little Rock
+638,Mason Ziegler,RSFR,Lehigh
+639,Carter Bailey,SR,Lehigh
+640,Anthony Evanitsky,FR,Lehigh
+641,Dom Federici,RSFR,Lehigh
+642,Remy Brancato,JR,Lehigh
+643,Kysen Terukina,SR,North Carolina
+644,Ethan Oakley,SR,North Carolina
+645,Luke Simcox,RSFR,North Carolina
+646,Nate Askew,FR,North Carolina
+647,Laird Root,RSFR,North Carolina
+648,Bryce Hepner,RSJR,North Carolina
+649,Collin Carrigan,RSFR,North Carolina
+650,Jake Dailey,RSFR,North Carolina
+651,Robert Platt,RSFR,North Carolina
+652,Jacob Levy,FR,North Carolina
+653,Osmany Diversent,RSFR,Iowa State
+654,Derrick Cardinal,SR,South Dakota State
+655,Avery Allen,SO,South Dakota State
+656,Conrad Hendriksen,RSSO,Oklahoma
+657,Carter Schmidt,SO,Oklahoma
+658,Alex Braun,RSFR,Oklahoma
+659,Hunter Hollingsworth,RSFR,Oklahoma
+660,Layton Schneider,RSFR,Oklahoma
+661,Peyten Kellar,SR,Oklahoma
+662,Owen Eck,RSFR,Oklahoma
+663,Brian Soldano,SR,Oklahoma
+664,Deanthony Parker,SR,Oklahoma
+665,Juan Mora,SR,Oklahoma
+666,Drew Davis,SO,SIU Edwardsville
+667,Marcel Lopez,JR,SIU Edwardsville
+668,Danny Martinez,SO,SIU Edwardsville
+669,Caleb Tyus,RSSR,SIU Edwardsville
+670,Hayden Whidden,SO,SIU Edwardsville
+671,Brock Woodcock,JR,SIU Edwardsville
+672,Dominic Lopez,JR,SIU Edwardsville
+673,Amare Overton,SO,SIU Edwardsville
+674,Nick Nosler,SO,SIU Edwardsville
+675,Bryson Buhk,JR,SIU Edwardsville
+676,Tyson Charmoli,RSFR,Oklahoma
+677,Clayton Giddens,RSFR,Oklahoma
+678,Eli Cordy,SO,Oklahoma
+679,Anthony Harris,FR,Oklahoma
+680,Bradley Hill,JR,Oklahoma
+681,Karl Monaco,JR,Columbia
+682,Charlie Scanlan,FR,Columbia
+683,Cesar Alvan,SR,Columbia
+684,Travis Clawson,SO,Clarion
+685,Joseph Fischer,RSSR,Clarion
+686,Scott Johnson,SO,Clarion
+687,Oliver Fairchild,SO,Clarion
+688,Wesley Barnes,SO,Clarion
+689,Alejandro Herrera-Rondon,SR,Clarion
+690,Patrick Cutchember,JR,Clarion
+691,Adrian Gacek,SO,Clarion
+692,Ethan Wiant,SR,Clarion
+693,John Meyers,RSSR,Clarion
+694,Braden Bower,SR,Bucknell
+695,Shane McFillin,FR,Bucknell
+696,Michael Bartush,SR,Bucknell
+697,Nick Sanko,JR,Virginia
+698,Aiden Davis,JR,Bucknell
+699,Riley Godek,SR,Bucknell
+700,Eugene Harney,RSFR,Morgan State
+701,Kaden Naame,SO,Rider
+702,James Farina,RSFR,Rider
+703,Roman Lermer,RSFR,Columbia
+704,Kaden Cassidy,SR,George Mason
+705,Donovan Sprouse,SR,George Mason
+706,Aaron Lanster,SO,Buffalo
+707,Marcus Petite,SR,Buffalo
+708,Mikey Boulanger,FR,Duke
+709,Aurelius Dunbar,SR,Duke
+710,Tyler Swiderski,SR,Central Michigan
+711,JJ Peace,RSFR,American
+712,Raymond Lopez,SR,American
+713,Jack Maida,SR,American
+714,Leo Maestas,FR,American
+715,Cameron Milheim,FR,American
+716,Austin Craft,RSFR,American
+717,Hunter Hohman,SO,American
+718,Caleb Campos,JR,American
+719,Caleb Close,FR,American
+720,Emmanuel Ulrich,SO,American
+721,Colton Camacho,SR,Central Michigan
+722,Angel Cervantes,SO,CSU Bakersfield
+723,Matthew Rowland,JR,Gardner-Webb
+724,Jackson Baglio,SO,Gardner-Webb
+725,Dominic DiTullio,SR,Gardner-Webb
+726,Drew Pepin,SO,Gardner-Webb
+727,Joseph Giordano,SO,Gardner-Webb
+728,Luke Murray,FR,Gardner-Webb
+729,Isaiah Guerrero,FR,Gardner-Webb
+730,Hadyn Danals,SR,Gardner-Webb
+731,Joshua McCutchen,JR,Gardner-Webb
+732,Rocky Files,RSFR,Gardner-Webb
+733,Tyler Washburn,SO,The Citadel
+734,Teegan Vasquez,FR,The Citadel
+735,George Rosas,SR,The Citadel
+736,Carson DesRosier,JR,The Citadel
+737,Jacob Silka,RSJR,The Citadel
+738,Thomas Snipes,JR,The Citadel
+739,Braxton Russell,RSFR,The Citadel
+740,Brodie Porter,SR,The Citadel
+741,Adam Ortega,JR,The Citadel
+742,Mason Ayers,SO,The Citadel
+743,Jesse Mullis,RSFR,NC State
+744,Gylon Sims,SO,The Citadel
+745,Kyrel Leavell,RSFR,The Citadel
+746,Owen Hendricks,RSFR,The Citadel
+747,Christian Bell,RSFR,The Citadel
+748,Caden Barrientos,RSFR,Buffalo
+749,Maximillian Leete,RSSR,American
+750,Elijah White,SR,American
+751,Gage Owen,SO,American
+752,Gavin Cohen,FR,American
+753,RJ Robinson,FR,American
+754,Lorenzo Norman,SO,Stanford
+755,Nathan Desmond,FR,Penn State
+756,Ezekiel Witt,RSFR,North Dakota State
+757,Tristan Daugherty,SR,North Dakota State
+758,Michael Olson,RSFR,North Dakota State
+759,Maxwell Petersen,JR,North Dakota State
+760,Gavin Drexler,JR,North Dakota State
+761,Boeden Greenley,SO,North Dakota State
+762,Tyler Secoy,RSFR,North Dakota State
+763,Aidan Brenot,SO,North Dakota State
+764,Devin Wasley,JR,North Dakota State
+765,Shilo Jones,RSFR,North Dakota State
+766,Briar Priest,JR,Pittsburgh
+767,Chris Vargo,SO,Edinboro
+768,Landon Bainey,RSFR,Edinboro
+769,Jacob Brenneman,RSSO,Edinboro
+770,Ryan Michaels,SR,Edinboro
+771,Garrett McChesney,RSFR,Edinboro
+772,Ryan Burgos,SR,Edinboro
+773,Tate Geiser,JR,Edinboro
+774,Jared McGill,SR,Edinboro
+775,Brody Evans,JR,Edinboro
+776,Aden Roe,SO,Edinboro
+777,Brock Bobzien,SO,Wisconsin
+778,Carter Dibert,JR,Arizona State
+779,Jamar Dixon,FR,Arizona State
+780,Chance McLane,SR,Arizona State
+781,Aidan Ysaguirre,FR,Arizona State
+782,Andrew McMonagle,RSFR,North Dakota State
+783,Andrew Blackburn-Forst,JR,North Dakota State
+784,Koda Holeman,JR,Cal Poly
+785,Anthony Lucio,RSFR,Cal Poly
+786,Alek VanBebber,RSFR,Cal Poly
+787,Andre Gonzales,SR,Cal Poly
+788,Anthony Berg,RSFR,Cal Poly
+789,Luke Gayer,JR,Cal Poly
+790,Cash Stewart,JR,Cal Poly
+791,Ceasar Garza,JR,Cal Poly
+792,Cole Jackson,SR,Cal Poly
+793,Trevor Tinker,SR,Cal Poly
+794,Aiden Simmons,FR,Cal Poly
+795,Wesley Wilson,JR,Cal Poly
+796,Mitchell Neiner,SO,California Baptist
+797,Jesse Vasquez,SR,California Baptist
+798,Dom Petracci,JR,Drexel
+799,Luke Passarelli,JR,Davidson
+800,Marley Washington,RSFR,Davidson
+801,Anderson Heap,SO,Davidson
+802,Anwar Alli,RSFR,Davidson
+803,Tyson Sherlock,FR,Davidson
+804,Marc Koch,SR,Davidson
+805,Cody Kirk,FR,Davidson
+806,Dylan Smith,SO,Davidson
+807,DJ Spring,SO,Davidson
+808,Waylon Rogers,SO,VMI
+809,Kyle Gibson,SO,VMI
+810,Eli Cramer,RSFR,VMI
+811,Patrick Jordon,JR,VMI
+812,Eric Doran,SO,VMI
+813,Ryan Vigil,SR,VMI
+814,Beau Lewis,FR,VMI
+815,Andrew Barford,FR,VMI
+816,Toby Schoffstall,JR,VMI
+817,Cole Will,FR,VMI
+818,Jace Schafer,SR,Bloomsburg
+819,Aiden Grogg,FR,Bloomsburg
+820,Ethan Ducca,SR,Bloomsburg
+821,Phoenix Alyea,SO,VMI
+822,Raymond Cmil,JR,VMI
+823,Caden Smith,RSFR,Sacred Heart
+824,Tyler Hildebrandt,FR,Sacred Heart
+825,John Hildebrandt,JR,Sacred Heart
+826,Dakota Asuncion,SR,Sacred Heart
+827,Felix Lettini,JR,Sacred Heart
+828,AJ Falcone,FR,Sacred Heart
+829,Aidan Zarrella,SR,Sacred Heart
+830,Hunter Perez,SR,Sacred Heart
+831,Chris DeLana,SR,Sacred Heart
+832,Brendan Gilchrist,SO,Sacred Heart
+833,Kevin Taylor,RSFR,Sacred Heart
+834,Javaan Yarbrough,RSFR,Morgan State
+835,Yannis Charles,JR,Morgan State
+836,Andrew Binni,FR,Navy
+837,Brendan Ferretti,SR,Navy
+838,Caedyn Ricciardi,FR,Navy
+839,James Latona,SR,Navy
+840,Jonathan Ley,JR,Navy
+841,Dylan Elmore,SO,Navy
+842,Danny Wask,JR,Navy
+843,Gage Yackee,FR,Navy
+844,Zyan Hall,JR,Navy
+845,Spencer Lanogsa,FR,Navy
+846,Scott Robertson,SO,Nebraska
+847,Tyler Eise,FR,Nebraska
+848,Michael Calcagno,FR,North Carolina
+849,Hunter Gould,RSFR,Lock Haven
+850,Spencer Mooberry,SR,Northern Illinois
+851,Gabe Whisenhunt,JR,Oregon State
+852,Jared Chuqulin,SO,LIU
+853,Luke Nieto,FR,LIU
+854,Kade Orr,SR,Northern Colorado
+855,KJ Evans,SO,Northern Colorado
+856,Brycen Arthur,FR,Campbell
+857,Reese Stephen,RSFR,Kent State
+858,Trent Thomas,SO,Kent State
+859,Corey Boerio,SO,Kent State
+860,Cooper Flynn,SR,Chattanooga
+861,Bryce Luna,RSFR,Chattanooga
+862,Hunter Mason,SO,Chattanooga
+863,Will Anderson,FR,Chattanooga
+864,CJ Liddie,RSFR,Chattanooga
+865,Mason Reiniche,RSSR,Chattanooga
+866,Kamdyn Munro,JR,Chattanooga
+867,Landon Jones,RSFR,Chattanooga
+868,Tre McTorry III,RSFR,Chattanooga
+869,Ethan Vergara,SO,Chattanooga
+870,Bridger Ricks,SR,Utah Valley
+871,Geronimo Rivera,FR,Utah Valley
+872,Haiden Drury,SR,Utah Valley
+873,Kayd Craig,SO,Utah Valley
+874,Mark Takara,JR,Utah Valley
+875,Zyon Trujillo,FR,Utah Valley
+876,Trevor Frank,SO,Utah Valley
+877,Caleb Uhlenhopp,JR,Utah Valley
+878,Kael Bennie,SO,Utah Valley
+879,Jack Forbes,SR,Utah Valley
+880,Tucker Owens,SR,Air Force
+881,Gavin Caprella,JR,Air Force
+882,Carter Nogle,SO,Air Force
+883,Bryce Shelton,SR,Air Force
+884,Jake Doone,JR,Air Force
+885,Logan Fowler,SO,Air Force
+886,Gunner Cramblett,FR,Air Force
+887,Brian Burburjia,SO,Air Force
+888,Karson Tompkins,RSFR,Air Force
+889,Rylan Kuhn,FR,Air Force
+890,Jack Parker,SO,Franklin & Marshall
+891,Mason Leiphart,SR,Franklin & Marshall
+892,Bryce Kresho,SR,Franklin & Marshall
+893,Pat Phillips,RSSR,Franklin & Marshall
+894,Josh Hillard,JR,Franklin & Marshall
+895,Josh Palmucci,JR,Franklin & Marshall
+896,Brandon Carr,FR,Franklin & Marshall
+898,RJ Moore,JR,Franklin & Marshall
+899,Brody Kline,SO,Franklin & Marshall
+900,Jack Conley,SO,Michigan State
+901,Cory Thomas,RSFR,Michigan State
+902,Max Vanadia,SO,Michigan State
+903,Teage Calvin,FR,American
+904,Brady Joling,SO,Davidson
+905,Bryce Griffin,SO,Davidson
+907,Dominic Wheatley,JR,Franklin & Marshall
+908,Brayden Adams,JR,Presbyterian
+909,Niko Valenzuela,FR,Presbyterian
+910,Yanik Simon,FR,Presbyterian
+911,Toler Hornick,SO,Presbyterian
+912,Dallas Canoyer,FR,Presbyterian
+913,Matt Rodriguez,JR,Presbyterian
+914,John Jurkovic,FR,Air Force
+915,Kyser Kostoff,FR,Presbyterian
+916,Aidan O'Shea,JR,Franklin & Marshall
+917,Nicolas Alvarez,JR,Franklin & Marshall
+918,Jake Allred,SO,Franklin & Marshall
+919,Brayden Fahrbach,RSFR,Appalachian State
+920,Jeremiah Price,SO,Appalachian State
+921,Tomas Brooker,JR,Appalachian State
+922,Logan Eller,SO,Appalachian State
+923,Jamisen Colongione,JR,Presbyterian
+924,Luke James,FR,California Baptist
+925,Kayden Cartee,FR,California Baptist
+926,Wyatt Voelker,JR,Northern Iowa
+927,Mack Mauger,RSFR,Missouri
+928,Kade Moore,JR,Missouri
+929,Zeke Seltzer,JR,Missouri
+930,Josh Edmond,SR,Missouri
+931,Maxx Mayfield,SR,Missouri
+932,Peyton Westpfahl,FR,Missouri
+933,Aeoden Sinclair,RSFR,Missouri
+934,Evan Bates,SR,Missouri
+935,Jarrett Stoner,SO,Missouri
+936,Andrew Clark,SR,Rutgers
+937,Anthony White,SR,Rutgers
+938,Andrew Barbosa,RSFR,Rutgers
+939,Lenny Pinto,SR,Rutgers
+940,Jett Strickenberger,SR,West Virginia
+941,Cole Evans,FR,West Virginia
+942,Leo Contino,FR,West Virginia
+943,Wilson Spires,SO,West Virginia
+944,Jacob Zearfoss,RSFR,Rider
+945,Tyler Wells,JR,Oklahoma
+946,Carter Schubert,SO,Oklahoma
+947,Bryce Burkett,FR,Oklahoma
+948,Jacob Moran,SR,Indiana
+949,Logan Frazier,SO,Indiana
+950,Henry Porter,JR,Indiana
+951,Joey Buttler,SO,Indiana
+952,Bryce Lowery,SO,Indiana
+953,Tyler Lillard,JR,Indiana
+954,Derek Gilcher,SR,Indiana
+955,Sam Goin,RSFR,Indiana
+956,Gabe Sollars,SR,Indiana
+957,Caleb Marzolino,RSFR,Indiana
+958,Charlie Farmer,SR,Army West Point
+959,Jake Crapps,RSFR,Army West Point
+960,Braden Basile,JR,Army West Point
+961,Mason Barvitskie,SO,Army West Point
+962,Joseph Antonio,FR,Army West Point
+963,Dakota Morris,JR,Army West Point
+964,Cooper Haase,SO,Army West Point
+965,David Barrett,SO,Army West Point
+966,Reid Schroeder,SO,Army West Point
+967,Brady Colbert,SO,Army West Point
+968,Sefton Douglass,JR,Wyoming
+969,Luke Willochell,FR,Wyoming
+970,John Alden,RSFR,Wyoming
+971,Gabe Willochell,SR,Wyoming
+972,Jared Hill,SR,Wyoming
+973,Sloan Swan,RSSO,Wyoming
+974,Riley Davis,SO,Wyoming
+975,Eddie Neitenbach,SO,Wyoming
+976,Joey Novak,JR,Wyoming
+977,Christian Carroll,SO,Wyoming
+978,Connor Mirasola,RSFR,Penn State
+979,Abram Cline,RSFR,Maryland
+980,Dario Lemus,SO,Maryland
+981,Dominic Solis,RSSR,Maryland
+982,Nate Roth,SO,Kent State
+983,Ty Deericks,RSFR,Kent State
+984,Tyson Lane,JR,Gardner-Webb
+985,TK Davis,SO,Gardner-Webb
+986,Nathan McCartney,FR,Gardner-Webb
+987,Tucker Cell,RSFR,Gardner-Webb
+988,Dean Peterson,SR,Iowa
+989,Joey Cruz,JR,Iowa
+990,Nasir Bailey,JR,Iowa
+991,Victor Voinovich,SR,Iowa
+992,Gabe Arnold,SO,Iowa
+993,Easton Fleshman,JR,Iowa
+994,Tanner Lofthouse,RSSR,Utah Valley
+995,Yuta Otera,SO,Chattanooga
+996,Tavian Camper,RSFR,Chattanooga
+997,Kade Rule,FR,Chattanooga
+998,Brendan McCrone,JR,Ohio State
+999,Jackson Arrington,RSJR,NC State
+1000,Cason Howle,FR,NC State
+1001,Marcus Murabito,JR,North Carolina
+1002,Nolan Neves,JR,North Carolina
+1003,Willie McDougald,SR,West Virginia
+1004,Damion Ryan,JR,Bellarmine
+1005,Trayce Eckman,JR,Bellarmine
+1006,AJ Rallo,SO,Bellarmine
+1007,Zac Cowan,SR,Bellarmine
+1008,Gray Ortis,JR,Bellarmine
+1009,Noah Hall,RSFR,Bellarmine
+1010,Grant O'Dell,SR,Bellarmine
+1011,Jack Ring,SO,Bellarmine
+1012,Thadd Huff,RSJR,Bellarmine
+1013,Daulton Mayer,SR,Bellarmine
+1014,Austin Zimmerman,RSFR,Edinboro
+1015,Amonn Ohl,SR,Edinboro
+1016,Mason Tieffel,RSFR,Kent State
+1017,Carson Miller,JR,Kent State
+1018,Abel Ngoh,RSFR,Kent State
+1019,Gavin Ricketts,SO,Bellarmine
+1020,Andrew Liber,SO,Bellarmine
+1021,Eric Alderfer,JR,Bloomsburg
+1022,Cael Nasdeo,RSFR,Penn State
+1023,Logan Wadle,SO,Lehigh
+1024,Logan Rozynski,SO,Lehigh
+1025,Bekhruz Sadriddinov,RSFR,Lehigh
+1026,Joey Olivieri,SR,Rutgers
+1027,PJ Casale,JR,Rutgers
+1028,Jason Kwaak,FR,NC State
+1029,Antoine Glasgow,FR,Morgan State
+1030,Cort Vann,JR,Morgan State
+1031,Bryce Phillips,RSFR,Morgan State
+1032,Chris Cannon,SR,Minnesota
+1033,Andrew Sparks,SR,Minnesota
+1034,Gabe Nagel,SR,Minnesota
+1035,Max Magayna,RSFR,North Dakota State
+1036,Tanner Peake,SR,Davidson
+1037,Daniel Elyash,RSFR,Davidson
+1038,Vince Bouzakis,FR,Pittsburgh
+1039,Blue Stiffler,FR,Bucknell
+1040,Kyle Lew,RSFR,Little Rock
+1041,Brock Delsignore,SR,Little Rock
+1042,Stephen Little,JR,Little Rock
+1043,Matt Kowalski,FR,Indiana
+1044,Andrew Hampton,SR,Michigan State
+1045,Jace Morgan,FR,Michigan State
+1046,Evan Gosz,FR,Michigan State
+1047,Luke Vanadia,SO,Michigan State
+1048,Jurius Clark,JR,Hofstra
+1049,Kiyan Simon,FR,Davidson
+1050,Ethan Berginc,SR,Army West Point
+1051,Gunner Filipowicz,JR,Army West Point
+1052,Wolfgang Frable,SR,Army West Point
+1053,Blake Cushing,SR,Nebraska
+1054,Jared Brunner,SR,Brown
+1055,Douglas Shipers,FR,Brown
+1056,Khimari Manns,FR,Brown
+1057,Austin McBurney,JR,Brown
+1058,Ethan Mojena,JR,Brown
+1059,Maximus Norman,FR,Brown
+1060,Drew Clearie,SR,Brown
+1061,Thomas Sandoval,SO,Brown
+1062,Andrew Reall,SO,Brown
+1063,Alex Semenenko,SR,Brown
+1064,Danny Heiser,FR,Missouri
+1065,Jacobi Jackson,SR,Missouri
+1066,Blaine Frazier,JR,Indiana
+1067,Justin Griffith,JR,Drexel
+1068,Colin Martin,FR,American
+1069,Jackson Young,FR,Maryland
+1070,Matthew Smith,FR,Clarion
+1071,Gabe Lilly,FR,Clarion
+1072,Lucas Thomas,RSFR,Clarion
+1073,Kade Kluce,SO,Bloomsburg
+1074,Dawson Johnson,RSFR,Minnesota
+1075,Brock Herman,SO,Little Rock
+1076,Shay Korhorn,JR,Bellarmine
+1077,Jeb Prechtel,SO,Bellarmine
+1078,Cael Miller,RSFR,Bellarmine
+1079,Andrew Wilson,SR,Gardner-Webb
+1080,John King,RSFR,Duke
+1081,Paniro Johnson,JR,Iowa State
+1082,Massoma Endene,SR,Iowa
+1083,Andrew Macchiavello,JR,NC State
+1084,Xavier Wilson,FR,NC State
+1085,Tristan Corbin,FR,Bloomsburg
+1086,Ryan Catka,RSSR,Virginia
+1087,Ty Kapusta,SO,Bucknell
+1088,Dom Bambinelli,FR,Missouri
+1089,Cade Lautt,SR,Illinois
+1090,Diego Sotelo,SR,Michigan
+1091,Eren Sement,FR,Michigan
+1092,Dylan Gilcher,SO,Michigan
+1093,Ethan Rivera,SO,Princeton
+1094,Jacob Mann,SR,Princeton
+1095,Gabe Garibaldi,FR,Princeton
+1096,August Hibler,RSFR,Northwestern
+1097,Gabriel Gallardo,FR,North Dakota State
+1098,Liam Scrivanich,SO,Rider
+1099,Steyn De Lange,JR,Rider
+1100,Orlando Cruz,SO,Indiana
+1101,Max Acciardi,SO,Arizona State
+1102,Richard Figueroa,SR,Oklahoma State
+1103,Cutter Sheets,JR,Oklahoma State
+1104,Kody Routledge,FR,Oklahoma State
+1105,Isaiah Quintero,RSFR,Purdue
+1106,Isaac Ruble,JR,Purdue
+1107,Adrian Pellot,FR,Purdue
+1108,Deven Casey,FR,Pennsylvania
+1109,Jackson Polo,JR,Pennsylvania
+1110,Xander Kuokkanen,SO,Pennsylvania
+1111,Jackson Slotnick,FR,Hofstra
+1112,Danny Church,SO,Hofstra
+1113,Gabriel Schumm,SR,California Baptist
+1114,Adonis Bonar,FR,California Baptist
+1115,Tyler O'Boyle,SR,Duke
+1116,Adam Haselius,JR,Columbia
+1117,EJ Beloncik,SO,Air Force
+1118,Sebastian Martinez,FR,Air Force
+1119,Gary Steen,SR,Oklahoma State
+1120,JJ McComas,RSFR,Oklahoma State
+1121,Tommy Curran,JR,Northern Illinois
+1122,Tyler Turzinski,FR,Northern Illinois
+1123,Colin Young,RSFR,Northern Illinois
+1124,Ian Smith,RSFR,Northern Illinois
+1125,Rohan Bucknor,FR,Morgan State
+1126,Maddox Shaw,FR,Ohio State
+1127,Seth Shumate,JR,Ohio State
+1128,Ismael Ayoub,JR,Kent State
+1129,Aaron Ferguson,SR,Kent State
+1130,Coen Bainey,SO,American
+1131,Kaden Milheim,SO,American
+1132,Jackson Albert,FR,George Mason
+1133,David Evans,SR,Utah Valley
+1134,Ryker Fullmer,SO,Utah Valley
+1135,Omar Ayoub,RSFR,Nebraska
+1136,Nikade Zinkin,FR,Nebraska
+1137,DezMonde Garterell,SR,Nebraska
+1138,Jager Eisch,SR,Minnesota
+1139,Bennett Tabor,SR,Minnesota
+1140,Noah Nininger,FR,Virginia Tech
+1141,Ryan Burton,FR,Virginia Tech
+1142,Clayton Whiting,JR,Minnesota
+1143,Seth Mendoza,FR,Missouri
+1144,Joel Mylin,SR,Missouri
+1145,Cameron Steed,JR,Missouri
+1146,Kole Brower,JR,Illinois
+1147,Easton Hilton,JR,Missouri
+1148,Manny Saldate,FR,Oregon State
+1149,Joel Adams,FR,Oregon State
+1150,Keller Rock,SR,Oregon State
+1151,Charles Hastriter,SR,Oregon State
+1152,Rocco Camillaci,RSJR,Princeton
+1153,Evan Herriman,SO,Michigan State
+1154,Tony Burke,SR,VMI
+1155,Declan Strait,FR,VMI
+1156,JT Bowers,FR,VMI
+1157,Caleb Patterson,FR,VMI
+1158,Jimmy Garcia,RSFR,Franklin & Marshall
+1159,Domenic D'Agostino,JR,LIU
+1160,Kaleb Wright,RSFR,LIU
+1161,Sean O'Donnell,SO,Duke
+1162,Blake Bryant,JR,Morgan State
+1163,Sam Diggs,SO,Morgan State
+1164,Kael Voinovich,SO,Iowa
+1165,Gage Marty,JR,Iowa
+1166,Joey Ruzic,RSFR,Illinois
+1167,Danny Nini,JR,Illinois
+1168,Everest Ouellette,FR,NC State
+1169,Kalob Runyon,SR,Northern Iowa
+1170,Calvin Lachman,RSFR,Lehigh
+1171,David Saenz,SR,Wyoming
+1172,Joshua Saunders,SR,Cornell
+1173,Nate Wade,SR,Cornell
+1174,Jackson Tucker,FR,Little Rock
+1175,Zeke Dubler,SO,Lehigh
+1176,Alec Peralta,JR,SIU Edwardsville
+1177,Nico Ronchetti,FR,SIU Edwardsville
+1178,Giosue Hickman,RSFR,Northwestern
+1179,Dirk Morley,SO,Northwestern
+1180,Leo DeLuca,FR,Iowa
+1181,Antonio Avila,RSFR,Wyoming
+1182,Rhett Koenig,SO,Minnesota
+1183,Matt Henrich,RSFR,Virginia Tech
+1184,Tyler Harper,RSFR,Little Rock
+1185,Jacob Meissner,JR,Arizona State
+1186,Sabino Portella,SO,North Carolina
+1187,Kaemen Smith,SR,Navy
+1188,Charlie Evans,JR,Navy
+1189,Talan Parsons,RSFR,Northern Illinois
+1190,Collin Arch,SO,Northern Illinois
+1191,Liam Packer,RSFR,American
+1192,Troy Guerra,JR,Buffalo
+1193,Kaleb Burgess,SR,Buffalo
+1194,Chris Nucifora,SO,Bucknell
+1195,Tyler Schofield,RSFR,Northern Illinois
+1196,Connor Scuilla,RSFR,Buffalo
+1197,Konner Lambers,FR,Ohio
+1198,Carson Weber,FR,Ohio
+1199,Max Ray,SO,Ohio
+1200,Adam Mattin,FR,Stanford
+1201,Hunter Garvin,JR,Stanford
+1202,Brook Byers,SR,Stanford
+1203,Max Shulaw,RSFR,Virginia
+1204,Thomas Termini,JR,The Citadel
+1205,Jaxon Smith,SR,Maryland
+1206,Tyler Garvin,SO,Maryland
+1207,Michael Pizzuto,SO,Maryland
+1208,Joey Schneck,SO,Maryland
+1209,Brandon Bauer,RSFR,Campbell
+1210,Anthony Ferrari,RSFR,Campbell
+1211,Ryan Phillips,RSFR,Campbell
+1212,Braxton Appello,JR,Sacred Heart
+1213,Aaron Nagao,RSJR,Penn State
+1214,Joseph Sealey,RSFR,Penn State
+1215,Landyn Sommer,RSFR,Oklahoma
+1216,Anders Thompson,RSFR,Oklahoma
+1217,Jackson Blum,FR,Indiana
+1218,Jagger French,RSFR,Cal Poly
+1219,Zach Reilley,RSFR,Hofstra
+1220,Malachi Ortiz,FR,VMI
+1221,Dyson Dunham,SR,VMI
+1222,Gideon Gerber,FR,VMI
+1223,Joshua Ogunsanya,SR,North Carolina
+1224,Andrew Donahue,JR,Northern Colorado
+1225,Ty Tice,SO,Chattanooga
+1226,Ethan Lipsey,SO,Chattanooga
+1227,Billy Meiszner,JR,Chattanooga
+1228,Landon Desselle,RSFR,Ohio State
+1229,Sincere Bailey,SR,Morgan State
+1230,Eric Tecson,JR,Morgan State
+1231,Kolby Kiker,FR,Campbell
+1232,Jason Kennedy,FR,Campbell
+1233,Wyatt Bush,FR,Bloomsburg
+1234,Hayden Watson,JR,The Citadel
+1235,Payton Thomas,SO,Navy
+1236,Cole Bartram,RSFR,Lock Haven
+1237,Nick Pavlechko,RSFR,Indiana
+1238,Max Ohamuo,FR,LIU
+1239,Evan Maag,JR,George Mason
+1240,Jamil Morrow,FR,George Mason
+1241,Jonathan Chesser,SR,The Citadel
+1242,Gianni Silvestri,SO,Buffalo
+1243,Colby McBride,JR,Appalachian State
+1244,Joseph Fongaro,JR,Appalachian State
+1245,Logan Richey,SO,Duke
+1246,Gaetano Console,SR,Duke
+1247,Ryan Franco,SR,Army West Point
+1248,Andrew Christie,JR,Army West Point
+1249,Frank Dibella,RSFR,Virginia Tech
+1250,Patrick Adams,SR,Rutgers
+1251,Kyle Draina,FR,Bloomsburg
+1252,Nate Blanchette,RSFR,Rutgers
+1253,Dylan Moreno,RSFR,CSU Bakersfield
+1254,Joey Clem,RSFR,Sacred Heart
+1255,Eric Wolf,FR,Sacred Heart
+1256,Daniel Williams,JR,Navy
+1257,Julian George,SO,Wisconsin
+1258,Brayden Canoyer,FR,North Dakota State
+1259,Jason Mara,RSFR,Stanford
+1260,Zeth Romney,JR,Cal Poly
+1261,Isaiah Harrison,FR,Wyoming
+1262,Gunner Henry,FR,Wyoming
+1263,Hudson Rogers,RSFR,Utah Valley
+1264,Christian Slack,SR,Utah Valley
+1265,Eric Almarinez,JR,SIU Edwardsville
+1266,Deron Pulliam,SR,SIU Edwardsville
+1267,Kodiak Cannedy,JR,Little Rock
+1268,Leo Macias,FR,Cal Poly
+1269,Gavin Fernandez,SO,Cal Poly
+1270,Taye Wilson,FR,Little Rock
+1271,David Malin,RSFR,Wisconsin
+1272,Nathan Perry,SO,Maryland
+1273,Sepanta Ahanj-Elias,FR,Maryland
+1274,Lucas Peters,RSFR,Indiana
+1275,Jax Forrest,FR,Oklahoma State
+1276,Bryson Valdez,RSFR,Northern Colorado
+1277,Brady Pruett,SR,Pennsylvania
+1278,Khale Mcdonnell,FR,Oregon State
+1279,Levi Bussey,FR,Cal Poly
+1280,Ryan Mann,FR,Presbyterian
+1281,George Hopkins,JR,Presbyterian
+1282,Anthony Brown,FR,Presbyterian
+1283,John Sheehy,FR,Sacred Heart
+1284,Daniel Delusant,SO,Sacred Heart
+1285,Marc Berisha,SR,Sacred Heart
+1286,Ryan Bennett,RSFR,Illinois
+1287,Luke Satriano,FR,West Virginia
+1288,Mason Gibson,RSFR,Rutgers
+1289,Colin Dupill,SO,South Dakota State
+1290,Gunner Chambers,SO,George Mason
+1291,Drew Dickson,SR,George Mason
+1292,Devin Ryan,FR,Army West Point
+1293,Conor Collins,JR,Army West Point
+1294,Nick Franzen,FR,Sacred Heart
+1295,Leo Varga,SO,Franklin & Marshall
+1296,Ben Szuba,FR,Arizona State
+1297,Mikey Folch,SO,CSU Bakersfield
+1298,Jose Farias,SO,CSU Bakersfield
+1299,Jadon Skellenger,RSFR,Lehigh
+1300,Alex Emmer,RSSR,Utah Valley
+1301,Gage Walker,SO,Missouri
+1302,Owen Uhls,JR,Missouri
+1303,Teague Travis,SR,Missouri
+1304,Marcus Wright,SO,The Citadel
+1305,Talon Maple,FR,Campbell
+1306,Chase Yasutake,FR,Brown
+1307,Connor O'Donnell,SO,Brown
+1308,Connor Wetzel,FR,Lock Haven
+1309,Brody Sampson,RSFR,Iowa
+1310,Joseph Sciarrone,SR,Cornell
+1311,Jake Hockaday,FR,Nebraska
+1312,Drew Gorman,FR,Virginia Tech
+1313,Matt Marlow,RSFR,Pittsburgh
+1314,Hunter Taylor,RSFR,Oregon State
+1315,Eathon Rider,RSJR,CSU Bakersfield
+1316,Jesse Vanorden,FR,Air Force
+1317,Talon McCollom,FR,Air Force
+1318,Josh Cordio,JR,Air Force
+1319,Antonio Ramos,JR,Air Force
+1320,Caleb Dennee,FR,Wisconsin
+1321,Joe Curtis,JR,Columbia
+1322,Treshaun Tecson,SO,Morgan State
+1323,Shawn Ryncarz,JR,Morgan State
+1324,Dylan Newsome,SO,Virginia
+1325,Cam Stinson,RSFR,North Carolina
+1326,Sammy Agnello,RSFR,Michigan State
+1327,Luke Geleta,FR,Binghamton
+1328,JB Dragovich,JR,George Mason
+1329,Edison Flores,SO,Gardner-Webb
+1330,Ethan Uhorchuk,FR,Chattanooga
+1331,Christian Rutherford,JR,Davidson
+1332,Cody Tanner,SO,VMI
+1333,Tyler Berish,SO,VMI
+1334,Carter Pearson,FR,Iowa State
+1335,Logan Glynn,FR,Northern Colorado
+1336,Ernie Perry III,SO,Cornell
+1337,Carson Crace,SO,Cornell
+1338,Cy Kruse,FR,Cornell
+1339,Kai Tengco,SO,Brown
+1340,Michael Baldwin,FR,West Virginia
+1341,Lane Foard,FR,Wyoming
+1342,Lance Urbas,RSSR,Pennsylvania
+1343,Liam Carlin,FR,Pennsylvania
+1344,John Vinciguerra,JR,Pennsylvania
+1345,Dale O'Blia,FR,Princeton
+1346,Parker Sentipal,RSFR,Edinboro
+1347,Jaeden Kinlock,SR,Harvard
+1348,Ejiro Montoya,RSFR,Franklin & Marshall
+1349,Aaron Seidel,FR,Virginia Tech
+1350,Liam Daniels,RSFR,Little Rock
+1351,Sean Larkin,RSFR,Michigan State
+1352,Luis Bazan,SO,Northwestern
+1353,Kolten Barker,RSFR,Ohio
+1354,Anthony Basile,FR,George Mason
+1355,Elijah Lowe,RSFR,Chattanooga
+1356,Charlie Sly,SO,Gardner-Webb
+1357,Leonard Ashley,FR,Bloomsburg
+1358,Gavin Hannah,FR,Bloomsburg
+1359,Tyler McCatharn,JR,Bloomsburg
+1360,Nick Treaster,SO,Navy
+1361,Hunter Heflin,SO,Navy
+1362,Nick Vafiadis,JR,Navy
+1363,Frank Antoelli,SR,Navy
+1364,Cooper Rathburn,SO,Navy
+1365,Davis Park,JR,Navy
+1366,Dominic Iaquinto,FR,Navy
+1367,Keagan Oler,FR,Clarion
+1368,Cody Hamilton,FR,Clarion
+1369,Ethan Finch,SR,Clarion
+1370,Noah Doi,FR,Campbell
+1371,Nathan Higley,SR,Bellarmine
+1372,Keenan Wyatt,JR,Bellarmine
+1373,Cameron Geuther,SO,Northern Iowa
+1374,Brandon Jacoby,JR,Presbyterian
+1375,Matt Furman,SO,Cornell
+1376,Brett McIntosh,SR,Wyoming
+1377,Beric Jordan,RSFR,Oklahoma
+1378,Logan Cole,SO,Missouri
+1379,Christopher Mance,FR,Drexel
+1380,Haden Bottiglieri,SO,Harvard
+1381,Sawyer Ayotte,FR,Clarion
+1382,Greyson Catlow-Sidler,FR,LIU
+1383,Matthew Buck,JR,California Baptist
+1384,Cooper Hilton,FR,Michigan
+1385,Brandon Toranzo,RSFR,Rutgers
+1386,Garrett Reece,FR,Maryland
+1387,Ryan Clink,RSFR,Cal Poly
+1388,Tyson Peach,RSFR,South Dakota State
+1389,Owen Heiser,JR,Air Force
+1390,Matt Botello,FR,North Carolina
+1391,Nick O'Neill,RSFR,North Carolina
+1392,Tee Ward,RSFR,Northern Illinois
+1393,Zytavius Williams,FR,North Dakota State
+1394,Peyton Moore,JR,North Dakota State
+1395,Tobey Ravida,SO,Northern Colorado
+1396,Cody Brenner,SR,Central Michigan
+1397,Jackson Palzet,FR,George Mason
+1398,Mason Stefanelli,JR,Virginia
+1399,Cael Raines,RSFR,Bloomsburg
+1400,Mason Blue,SO,Gardner-Webb
+1401,Garrett Grice,JR,Iowa State
+1402,Manuel Rojas,JR,Iowa State
+1403,Beau Hickman,FR,Oklahoma State
+1404,Trevor Dopps,SR,Oklahoma State
+1405,Blake Beissel,RSFR,Minnesota
+1406,Sebastian Degennaro,FR,Oklahoma
+1407,Oliver Howard,SO,Columbia
+1409,Matthew Jens,RSFR,Wisconsin
+1410,Gavin Jendreas,FR,Indiana
+1411,Vinnie D'Alessandro,SO,Bucknell
+1412,Noah Weaver,FR,Purdue
+1413,Ty Wilson,RSFR,Northwestern
+1414,Andre Rocker,JR,Northwestern
+1415,Malachi Stratton,FR,George Mason
+1416,Aboubakare Diaby,SR,Drexel
+1417,Shane Whitney,SR,Drexel
+1418,Dayne Dalrymple,SR,Chattanooga
+1419,Robert Wright,JR,Air Force
+1420,Lincoln Gregerson,SO,Air Force
+1421,Mike Avelar,SO,Air Force
+1422,Brogan Fielding,FR,Ohio State
+1423,TJ Schierl,SO,Ohio State
+1424,Presley Johnson,FR,The Citadel
+1425,Roy Price,JR,The Citadel
+1426,Joe Calvin,RSFR,Bellarmine
+1427,Evan Grazzini,SO,Bellarmine
+1428,Joshua Lange,SO,Davidson
+1429,Joel Aguilar,RSFR,Northern Colorado
+1430,Brady Hankin,JR,Northern Colorado
+1431,Daniel Bittner,SR,Harvard
+1432,Foster Cardinale,JR,Cornell
+1433,Seamus Mack,RSFR,Lehigh
+1434,Brady Collins,FR,Lehigh
+1435,Sasha Gavronksy,SO,West Virginia
+1436,Gavin Carroll,FR,Drexel
+1437,Bence Veress,FR,Morgan State
+1438,Cole Tolley,SO,West Virginia
+1439,Matthew Repos,SO,Lehigh
+1440,Aiden Robertson,FR,Air Force
+1441,Ian Fritz,FR,Utah Valley
+1442,Ben Lunn,SR,SIU Edwardsville
+1443,Winston McBride,SO,Wyoming
+1444,Christian Leonard,FR,VMI
+1445,Trae Rios,FR,Oklahoma
+1446,Alaa Aly,RSFR,Edinboro
+1447,Jayden Morris,FR,Presbyterian
+1448,Phil Cuttino,FR,Presbyterian
+1449,Gunter Gerstanacker,RSFR,Gardner-Webb
+1450,Chase Hontz,FR,Hofstra
+1451,Brandon Paez,SO,Northern Iowa
+1452,Connor Thorpe,SR,Northern Iowa
+1453,Jacob Garrison,FR,Presbyterian
+1454,Jagger Condomitti,SR,Nebraska
+1455,Tucker Bowen,RSFR,Wyoming
+1456,Devon Harrison,FR,North Dakota State
+1457,Mannix Morgan,SR,Oklahoma
+1458,Hudson Waldrop,SO,Campbell
+1459,Kaleb Ambrose,RSFR,American
+1460,Liam Volk-Klos,JR,American
+1461,Clayton Gabrielson,SO,Maryland
+1462,Nain Vasquez,SR,Army West Point
+1463,Ryan Alvarado,SR,Army West Point
+1464,Cole Karpinski,SR,Army West Point
+1465,Austin Kohlhofer,SR,Army West Point
+1466,Cole Stone,SR,Army West Point
+1467,Kaden Schaefer,SO,Bucknell
+1468,Drake Garrison,SO,VMI
+1469,Corey Iannucci,FR,Sacred Heart
+1470,Jack Kazalas,RSFR,Binghamton
+1471,Marco Dalakishvili,RSFR,Little Rock
+1472,Marco Tocci,SO,North Carolina
+1473,Joey Showalter,JR,North Carolina
+1474,Patrick O'Keefe,FR,Lock Haven
+1475,Kelly Kakos,SO,Lock Haven
+1476,Tyler Martinez,SO,Bellarmine
+1477,Easton Belfiore,FR,Edinboro
+1478,Austin Pollard,SO,Bloomsburg
+1479,Alex Reed,RSFR,Lock Haven
+1480,Josh Fish,FR,Northern Colorado
+1481,Pete Tomazevic,FR,Wisconsin
+1482,Wyatt Stout,FR,Pennsylvania
+1483,Owen Segorski,FR,Michigan State
+1484,Ryland Whitworth,FR,Presbyterian
+1485,Colin Kacena,RSFR,Central Michigan
+1486,Kolter Burton,RSFR,Oklahoma State
+1487,Jacob Helgeson,FR,Iowa State
+1488,Sampson Stillwell,FR,Missouri
+1489,Nicholas Romero,JR,Brown
+1490,Alex Baxley,FR,Bloomsburg
+1491,Logan Shephard,SR,Bucknell
+1492,Jabari Hinson,FR,Arizona State
+1493,Jack Wilt,SR,Lehigh
+1494,Sean Logue,JR,Lock Haven
+1495,Chase Burke,SO,Lock Haven
+1496,Brian Finnerty,JR,West Virginia
+1497,Damian Alvarez,RSFR,California Baptist
+1498,Eli Carr,FR,Brown
+1499,Prestyn Parks,RSFR,Ohio
+1500,Cody Tavoso,JR,Princeton
+1501,Ryan Messick,RSFR,Virginia Tech
+1502,Chris Bacchioni,SO,Virginia Tech
+1503,Parker Ferrell,RSFR,Virginia Tech
+1504,Nick Fea,JR,North Carolina
+1505,Brockton Borelli,FR,Stanford
+1506,Donovan Allen,FR,SIU Edwardsville
+1507,Kelly Dunnigan,SR,Pennsylvania
+1508,Nieko Malone,SR,Rider
+1509,Max Kirby,SR,Edinboro
+1510,Till Helms,FR,Gardner-Webb
+1511,Jackson Lusk,SO,Gardner-Webb
+1512,Matthew Rogers,SR,Hofstra
+38,Landen Johnson,SO,Northern Illinois
+168,Nathan Taylor,SR,Lehigh
+897,James Conway,SR,Missouri
+2000,James Conway,SR,Franklin & Marshall
+2001,Nathan Taylor,JR,Pennsylvania
