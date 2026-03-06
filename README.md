@@ -2,11 +2,8 @@
 
 ## 📊 Tableau Dashboard
 
-> **Interactive Dashboard:**  
-> Explore the full visualization of the **2025–26 NCAA Division I Wrestling Dual Season** including team performance, match statistics, and wrestler metrics.
->
-> 🔗 **View the Dashboard:**  
-> https://public.tableau.com/app/profile/gourav.pal/viz/2025-25NCAAD1DualSeason/NCAAD12025-26Season
+[![View Tableau Dashboard](https://img.shields.io/badge/View%20Tableau%20Dashboard-Interactive-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/gourav.pal/viz/2025-25NCAAD1DualSeason/NCAAD12025-26Season)
+
 
 A full data science project analyzing the **2025–2026 NCAA Division I wrestling dual season** and using **machine learning models to predict match outcomes and conference tournament results**.
 
