@@ -1,0 +1,25 @@
+Grade,Metric,Value
+FR,Win Rate,0.376
+JR,Win Rate,0.543
+RSFR,Win Rate,0.407
+RSJR,Win Rate,0.696
+RSSO,Win Rate,0.652
+RSSR,Win Rate,0.758
+SO,Win Rate,0.49
+SR,Win Rate,0.578
+FR,Bonus Rate,0.165
+JR,Bonus Rate,0.254
+RSFR,Bonus Rate,0.182
+RSJR,Bonus Rate,0.304
+RSSO,Bonus Rate,0.298
+RSSR,Bonus Rate,0.423
+SO,Bonus Rate,0.216
+SR,Bonus Rate,0.265
+FR,Avg Matches,5.1
+JR,Avg Matches,8.5
+RSFR,Avg Matches,6.7
+RSJR,Avg Matches,9.9
+RSSO,Avg Matches,12.4
+RSSR,Avg Matches,10.2
+SO,Avg Matches,7.9
+SR,Avg Matches,9.2
