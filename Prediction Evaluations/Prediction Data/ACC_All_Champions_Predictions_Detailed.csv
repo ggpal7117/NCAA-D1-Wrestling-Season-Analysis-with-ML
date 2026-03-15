@@ -1,0 +1,11 @@
+Weight,Actual Champion,LOGREG,DT,XGB1,XGB2,Consensus,Correct
+125 lbs,Eddie Ventresca (Virginia Tech),Eddie Ventresca,Eddie Ventresca,Eddie Ventresca,Eddie Ventresca,Unanimous,✅
+133 lbs,Aaron Seidel (Virginia Tech),Tyler Knox,Aaron Seidel,Aaron Seidel,Aaron Seidel,3/4 Models,❌
+141 lbs,Jack Consiglio (Stanford),Gable Porter,Gable Porter,Ryan Jack,Ryan Jack,Split Decision,❌
+149 lbs,Collin Gaj (Virginia Tech),Koy Buesgens,Koy Buesgens,Koy Buesgens,Koy Buesgens,Unanimous,❌
+157 lbs,Daniel Cardenas (Stanford),Daniel Cardenas,Daniel Cardenas,Daniel Cardenas,Daniel Cardenas,Unanimous,✅
+165 lbs,Bryce Hepner (North Carolina),Will Denny,Will Denny,Will Denny,Will Denny,Unanimous,❌
+174 lbs,Matthew Singleton (NC State),Aiden Wallace,Matthew Singleton,Matthew Singleton,Matthew Singleton,3/4 Models,✅
+184 lbs,Jaden Bullock (Virginia Tech),Jake Dailey,Jake Dailey,Jake Dailey,Jaden Bullock,3/4 Models,❌
+197 lbs,Sonny Sasso (Virginia Tech),Sonny Sasso,Mac Stout,Sonny Sasso,Angelo Posada,Split Decision,✅
+285 lbs,Isaac Trumble (NC State),Isaac Trumble,Isaac Trumble,Isaac Trumble,Isaac Trumble,Unanimous,✅

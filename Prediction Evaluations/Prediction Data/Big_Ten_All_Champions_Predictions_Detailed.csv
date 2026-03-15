@@ -1,0 +1,11 @@
+Weight,Actual Champion,LOGREG,DT,XGB1,XGB2,Consensus,Correct
+125 lbs,Luke Lilledahl (Penn State),Luke Lilledahl,Luke Lilledahl,Luke Lilledahl,Luke Lilledahl,Unanimous,✅
+133 lbs,Ben Davino (Ohio State),Marcus Blaze,Marcus Blaze,Marcus Blaze,Marcus Blaze,Unanimous,❌
+141 lbs,Jesse Mendez (Ohio State),Jesse Mendez,Jesse Mendez,Jesse Mendez,Jesse Mendez,Unanimous,✅
+149 lbs,Shayne Van Ness (Penn State),Shayne Van Ness,Shayne Van Ness,Shayne Van Ness,Shayne Van Ness,Unanimous,✅
+157 lbs,PJ Duke (Penn State),Brandon Cannon,Brandon Cannon,Brandon Cannon,Brandon Cannon,Unanimous,❌
+165 lbs,Mitchell Mesenbrink (Penn State),Mitchell Mesenbrink,Mitchell Mesenbrink,Mitchell Mesenbrink,Mitchell Mesenbrink,Unanimous,✅
+174 lbs,Levi Haines (Penn State),Levi Haines,Levi Haines,Levi Haines,Levi Haines,Unanimous,✅
+184 lbs,Rocco Welsh (Penn State),Rocco Welsh,Max McEnelly,Rocco Welsh,Rocco Welsh,3/4 Models,✅
+197 lbs,Josh Barr (Penn State),Josh Barr,Josh Barr,Josh Barr,Josh Barr,Unanimous,✅
+285 lbs,Taye Ghadiali (Michigan),Taye Ghadiali,Taye Ghadiali,Taye Ghadiali,AJ Ferrari,3/4 Models,✅

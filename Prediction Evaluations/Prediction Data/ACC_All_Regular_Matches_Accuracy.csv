@@ -1,0 +1,5 @@
+Model,Correct,Total,Accuracy
+XGBoost (with ranks),77,101,76.2
+XGBoost (no ranks),74,101,73.3
+Logistic Regression,72,101,71.3
+Decision Tree,70,101,69.3

@@ -1,0 +1,5 @@
+Model,Correct,Accuracy
+Logistic Regression,69/86,80.2%
+XGBoost (no ranks),69/86,80.2%
+Decision Tree,68/86,79.1%
+XGBoost (with ranks),64/86,74.4%

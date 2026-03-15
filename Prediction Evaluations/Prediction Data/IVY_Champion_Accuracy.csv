@@ -1,0 +1,5 @@
+Model,Correct Champions,Accuracy
+LOGREG,7/10,70.0%
+DT,6/10,60.0%
+XGB1,7/10,70.0%
+XGB2,6/10,60.0%
