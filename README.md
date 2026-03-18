@@ -458,10 +458,10 @@ Special match outcomes (injuries, forfeits, DQs) are harder to predict. Removing
 |------------|--------------------|------------|
 | Ivy League | 79.3%              | Easiest    |
 | ACC        | 75.7%              | Medium     |
-| Big Ten    | 76.1%              | Hardest    |
+| Big Ten    | 76.1%              | Medium     |
 
 **Insight:**  
-This aligns with expectations in wrestling: the Big Ten's depth makes it the most unpredictable, while the Ivy League has clearer favorites.
+This aligns with expectations in wrestling: the Big Ten's depth makes it the more unpredictable, while the Ivy League has clearer favorites.
 
 --
 
