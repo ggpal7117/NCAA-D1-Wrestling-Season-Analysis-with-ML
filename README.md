@@ -10,7 +10,7 @@
 
 A full data science project analyzing the **2025–2026 NCAA Division I wrestling dual season** and using **machine learning models to predict match outcomes and conference tournament results**.
 
-This project combines **web scraping, data engineering, feature engineering, visualization, and machine learning** to explore what drives success in college wrestling.
+This project integrates web scraping, data engineering, feature engineering, visualization, and machine learning to examine the factors that drive success in college wrestling.
 
 ---
 
@@ -364,6 +364,109 @@ To verify correctness:
 This ensured correctness despite the pipeline's complexity.
 
 ---
+
+
+# Model Performance & Prediction Accuracy
+
+A key part of this project was evaluating how well our models performed against real-world results. Below is a breakdown of prediction accuracy across the three conferences analyzed.
+
+---
+
+## Accuracy Metrics
+
+Model performance was evaluated on actual tournament matches from:
+- ACC
+- Big Ten
+- Ivy League
+
+Two sets of metrics are reported:
+
+- **All Matches**: Includes decisions, major decisions, tech falls, pins, and special results (injuries, forfeits, DQs)
+- **Regular Matches Only**: Excludes special results, which are inherently harder to predict
+
+---
+
+## ACC Tournament (107 Matches)
+
+| Model                     | Correct | Total | Accuracy |
+|--------------------------|--------:|------:|---------:|
+| XGBoost (with ranks)     | 81      | 107   | 75.7%    |
+| XGBoost (no ranks)       | 78      | 107   | 72.9%    |
+| Logistic Regression      | 76      | 107   | 71.0%    |
+| Decision Tree            | 74      | 107   | 69.2%    |
+
+**Key Insight:**  
+Adding ranking information improved XGBoost performance by ~3%, indicating rankings provide meaningful signal in a competitive conference like the ACC.
+
+---
+
+## Big Ten Tournament (260 Matches)
+
+| Model                     | Correct | Total | Accuracy |
+|--------------------------|--------:|------:|---------:|
+| XGBoost (with ranks)     | 198     | 260   | 76.1%    |
+| XGBoost (no ranks)       | 188     | 260   | 72.3%    |
+| Logistic Regression      | 184     | 260   | 70.8%    |
+| Decision Tree            | 184     | 260   | 70.8%    |
+
+**Key Insight:**  
+The Big Ten showed the largest gap between models (>5%), suggesting that more sophisticated models are needed to capture its depth and parity.
+
+---
+
+## Ivy League Tournament (87 Matches)
+
+| Model                     | Correct | Total | Accuracy |
+|--------------------------|--------:|------:|---------:|
+| XGBoost (no ranks)       | 69      | 87    | 79.3%    |
+| Logistic Regression      | 69      | 87    | 79.3%    |
+| Decision Tree            | 68      | 87    | 78.2%    |
+| XGBoost (with ranks)     | 65      | 87    | 74.7%    |
+
+**Key Insight:**  
+In the Ivy League, removing ranking information improved performance. This suggests that in lower-parity conferences, simpler statistical features may outperform rankings.
+
+---
+
+## Overall Performance (All Conferences – 454 Matches)
+
+| Model                     | Correct | Total | Accuracy |
+|--------------------------|--------:|------:|---------:|
+| XGBoost (with ranks)     | 344     | 454   | 75.8%    |
+| XGBoost (no ranks)       | 335     | 454   | 73.8%    |
+| Logistic Regression      | 329     | 454   | 72.5%    |
+| Decision Tree            | 326     | 454   | 71.8%    |
+
+---
+
+## Impact of Special Matches
+
+Special match outcomes (injuries, forfeits, DQs) are harder to predict. Removing them improves model performance:
+
+| Model                 | All Matches | Regular Only | Improvement |
+|----------------------|------------:|-------------:|------------:|
+| XGBoost (with ranks) | 75.8%       | 76.6%        | +0.8%       |
+| XGBoost (no ranks)   | 73.8%       | 74.9%        | +1.1%       |
+| Logistic Regression  | 72.5%       | 73.5%        | +1.0%       |
+| Decision Tree        | 71.8%       | 73.3%        | +1.5%       |
+
+---
+
+## Conference Difficulty Gradient
+
+| Conference  | Best Model Accuracy | Difficulty |
+|------------|--------------------|------------|
+| Ivy League | 79.3%              | Easiest    |
+| ACC        | 75.7%              | Medium     |
+| Big Ten    | 76.1%              | Hardest    |
+
+**Insight:**  
+This aligns with expectations in wrestling: the Big Ten's depth makes it the most unpredictable, while the Ivy League has clearer favorites.
+
+--
+
+
+
 
 # Limitations
 
