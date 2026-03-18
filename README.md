@@ -1,7 +1,7 @@
 # NCAA Division I Wrestling Season Analysis with Machine Learning
 
 ## 📊 Tableau Dashboard
-[![View Tableau Dashboard](https://img.shields.io/badge/View%20Tableau%20Dashboard-Interactive-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/gourav.pal/viz/2025-25NCAAD1DualSeason/NCAAD12025-26Season)
+[![View Tableau Dashboard](https://img.shields.io/badge/View%20Tableau%20Dashboard-Interactive-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/gourav.pal/viz/2025-25NCAAD1DualSeason_17737868389970/NCAAD12025-26Season)
 
 ## 📄 Project Report
 [![View Project Report](https://img.shields.io/badge/View%20Project%20Report-Online-green?style=for-the-badge&logo=readthedocs)](https://gamma.app/docs/NCAA-D1-Dual-Analysis-with-ML-s8rhbdfizjv8amf)
