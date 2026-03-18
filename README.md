@@ -3,10 +3,11 @@
 ## 📊 Tableau Dashboard
 [![View Tableau Dashboard](https://img.shields.io/badge/View%20Tableau%20Dashboard-Interactive-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/gourav.pal/viz/2025-25NCAAD1DualSeason_17737868389970/NCAAD12025-26Season)
 
-## 📄 Project Report
+## 📄 Project Report Part 1
 [![View Project Report](https://img.shields.io/badge/View%20Project%20Report-Online-green?style=for-the-badge&logo=readthedocs)](https://gamma.app/docs/NCAA-D1-Dual-Analysis-with-ML-s8rhbdfizjv8amf)
 
-
+## 📄 Project Report Part 2
+[![View Project Report](https://img.shields.io/badge/View%20Project%20Report-Online-green?style=for-the-badge&logo=readthedocs)](https://gamma.app/docs/NCAA-D1-Wrestling-Prediction-Evaluation-6ppig7q2mzzffvf)
 
 A full data science project analyzing the **2025–2026 NCAA Division I wrestling dual season** and using **machine learning models to predict match outcomes and conference tournament results**.
 
